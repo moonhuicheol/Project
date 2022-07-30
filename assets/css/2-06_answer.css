@@ -56,9 +56,6 @@ section div img {
     margin-top: 2%;
     border-radius: 50%;
 
-<<<<<<< HEAD
-} */
-=======
 /* modal */
 .info {
     margin: 10px 0 0 57%;
@@ -75,7 +72,6 @@ form div {
     padding: 5px 10px;
     font-weight: 600;
 }
->>>>>>> b14efff (add modal)
 
 /* ck-editor 속성 설정 */
 .ck-content {
