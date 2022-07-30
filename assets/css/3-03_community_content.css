@@ -24,15 +24,27 @@ form div {
     font-weight: 500;
 }
 
-.ck-editor__editable {
-    height: 350px;
+.ck-editor__editable { 
+    height: 350px; 
 }
 
 .ck-editor__main {
     padding: 0;
 }
 
-/* toggleHeart */
-.bi-suit-heart:hover, .bi-suit-heart-fill {
-    color: rgb(255, 70, 70);
+/* button */
+#delete, #revise {
+    padding: 0;
+}
+.heart, .comment_icon {
+    display: inline-block;
+    width: 8%;
+    height: 6%;
+    padding: 10px;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.heart {
+    border-radius: 15px;
+    background-color: rgb(182, 182, 182);
 }
