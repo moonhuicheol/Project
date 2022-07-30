@@ -1,0 +1,43 @@
+/* 안내 문구  */
+.info {
+    margin: 30px 0 10px 59%;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.info .red {
+    color: red;
+}
+
+/* 글 작성 */
+textarea {
+    width: 100%;
+}
+
+form div {
+    padding: 5px 10px;
+    font-weight: 600;
+}
+
+/* ck-editor 속성 설정 */
+.ck-content {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.ck-editor__editable { 
+    height: 350px; 
+}
+
+/* button */
+form input {
+    float: right;
+    margin-right: 10px;
+    width: 100px;
+}
+
+#save {
+    background-color: rgb(0, 0, 0);
+    color: rgb(230, 230, 230);
+}
+
